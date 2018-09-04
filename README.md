@@ -1,8 +1,8 @@
 # db-notebook
 
 Docker image based off of
-[`jupyter/base-notebook`](https://github.com/jupyter/docker-stacks/), with the
-following python packages:
+[`jupyter/base-notebook`](https://github.com/jupyter/docker-stacks/tree/master/base-notebook),
+with the following python packages:
 
 ```text
 numpy
