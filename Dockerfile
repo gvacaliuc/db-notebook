@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook:latest
+FROM jupyter/minimal-notebook:latest
 MAINTAINER Gabriel Vacaliuc "gabe.vacaliuc@gmail.com"
 
 RUN conda install --quiet --yes \
